@@ -9,6 +9,7 @@ function beyonceEarnings(num1, num2, num3, num4, num5, num6, num7) {
 
 function bTotal() {
   var totalSales = beyonceEarnings (500,750,3000,5100,12980,9087,50000)
+  return totalSales
 }
 }
 
