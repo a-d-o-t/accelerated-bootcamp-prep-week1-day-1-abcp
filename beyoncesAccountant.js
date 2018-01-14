@@ -14,7 +14,7 @@ beyonceEarnings (500,750,3000,5100,12980,9087,50000)
 
 function beyonceEarnings(num1, num2, num3) {
   return num1 + num2 + num3
-  {
+}
 
 beyonceEarnings (500,750,3000)
 
