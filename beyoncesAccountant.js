@@ -15,8 +15,8 @@ beyonceEarnings (500,750,3000,5100,12980,9087,50000)
 
 console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
-console.log("You have earned " + beyoncesEarnings)
-console.log("Of this" + beyoncesEarnings + " a portion derives from your live performances and a portion comes directly from your music sales.")
+console.log("You have earned " + beyonceEarnings)
+console.log("Of this" + beyonceEarnings + " a portion derives from your live performances and a portion comes directly from your music sales.")
 console.log("Feel free to contact me with any questions.")
 
 
