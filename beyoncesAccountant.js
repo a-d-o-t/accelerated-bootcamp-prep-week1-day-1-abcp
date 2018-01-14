@@ -1,22 +1,20 @@
-
-console.log("Dear Beyonce,")
-console.log("We have calculated your total earnings this year.")
-console.log("You have earned " + beyoncesMoney)
-console.log("Of" + livePerformance + " some portion derives from your live performances.")
-console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
-
 var livePerformance = (500+750+3000+5100+12980+9087+50000)
 var musicSales = (500+750+3000+5100+12980+9087+50000)
 
 
-function addNumbers (num1, num2, num3, num4) {
-  return num1 + num2 + num3 + num4
+function beyonceEarnings (num1, num2, num3, num4, num5, num6, num7) {
+  return num1 + num2 + num3 + num4 + num5 + num6 + num7
 }
 
 addNumbers (500,750,3000,5100,12980,9087,50000)
 
-/*I think this is where I now need to learn looping? To have just one num 
+/*I think this is where I now need to learn looping? To have just one num argument?*/
 
+
+console.log("Dear Beyonce,")
+console.log("We have calculated your total earnings this year.")
+console.log("You have earned " + beyoncesEarnings)
+console.log("Of this" + beyoncesEarnings + " a portion derives from your live performances and a portion comes directly from your music sales.")
 
 console.log(livePerformance)
 console.log(musicSales)
