@@ -1,5 +1,7 @@
+/*
 var livePerformance = (500+750+3000+5100+12980+9087+50000)
 var musicSales = (500+750+3000+5100+12980+9087+50000)
+*/
 
 
 function beyonceEarnings (num1, num2, num3, num4, num5, num6, num7) {
@@ -15,9 +17,8 @@ console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + beyoncesEarnings)
 console.log("Of this" + beyoncesEarnings + " a portion derives from your live performances and a portion comes directly from your music sales.")
+console.log("Feel free to contact me with any questions.")
 
-console.log(livePerformance)
-console.log(musicSales)
 
 // DON'T DO THIS PART YET:
 // Now that we understand what a variable is
