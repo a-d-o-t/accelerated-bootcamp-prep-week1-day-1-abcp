@@ -1,4 +1,4 @@
-name = "Beyonce";
+name = "Amanda";
 console.log(name);
 
 var personality = "clever"
